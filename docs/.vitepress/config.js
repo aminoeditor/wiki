@@ -1,4 +1,5 @@
 export default {
   title: 'Amino',
-  description: 'The Docs'
+  description: 'The Docs',
+  base: '/wiki/'
 }
